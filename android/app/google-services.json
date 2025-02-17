@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774830997152",
+    "project_id": "add-edit-delete-fab14",
+    "storage_bucket": "add-edit-delete-fab14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774830997152:android:8abe2386f335477633d3c5",
+        "android_client_info": {
+          "package_name": "com.example.mya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ1u2XUhCSfdsGsX269uXjFuhCAylHLlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

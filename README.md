@@ -1,1 +1,3 @@
-# flutter_crudapp
+# crudapp
+
+A new Flutter project.
